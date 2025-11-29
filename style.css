@@ -1,0 +1,59 @@
+h3:first-of-type {
+    color: pink;
+}
+
+.text-box :nth-child(5) {
+    color: red;
+}
+
+#greycol {
+    color: grey;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.text-box :nth-child(7) {
+    color: green;
+}
+
+.item-1 {
+    background-color: chartreuse;
+}
+
+.item-1:hover {
+    background-color: red;
+}
+
+.item-1:first-of-type {
+    color: ivory;
+}
+
+.item-1:last-of-type {
+    color: aquamarine;
+}
+
+.item-1:nth-of-type(3) {
+    color: darkorchid;
+}
+
+.Day:hover {
+    background-color: navy;
+}
+
+.liclass {
+    background-color: chocolate;
+}
+
+.item-1:nth-of-type(2):hover {
+    background-color: darkgrey;
+}
+
+.item-1:nth-of-type(4) {
+    cursor: cell;
+}
+
+.item-1:nth-of-type(3):active {
+    font-size: 49px;
+}
